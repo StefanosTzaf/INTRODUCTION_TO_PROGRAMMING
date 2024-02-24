@@ -40,7 +40,7 @@ int main()
              int temp=y;
              int primefactors=0;
              if (temp % 2 == 0){
-/*since y isn't divided with 2 or 3 two times(because if this had happened the loop wouldn't have been continued duo to [continue]Ïcommand) we can divide our number with 2 or/and 3*/
+/*since y isn't divided with 2 or 3 two times(because if this had happened the loop wouldn't have been continued duo to [continue]ï¿½command) we can divide our number with 2 or/and 3*/
                 temp /= 2;
                 primefactors++;
              }
